@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#luther-meadows-cover {
+  background-image: url("http://i.imgur.com/WBKeRWB.jpg")
+}
+
+#luther-meadows-card {
+  background-image: url("http://i.imgur.com/e4mWmYc.jpg")
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
